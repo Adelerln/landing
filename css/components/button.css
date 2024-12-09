@@ -1,0 +1,12 @@
+.btn-red {
+	background-color: rgb(163,0,33);
+	padding:15px 20px;
+	border-radius:6px;
+	color:white;
+	font-weight:bold;
+	font-family:'Montserrat';
+}
+.btn-red:hover{
+	color :#F6F4F3;
+	background-color: #6B818C;
+}
